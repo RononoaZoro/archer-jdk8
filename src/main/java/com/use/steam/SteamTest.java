@@ -28,7 +28,7 @@ public class SteamTest {
 //                //list to map
 //                list2Map();
 
-        new ArrayList<>().stream().forEach(System.out::println);
+//        new ArrayList<>().stream().forEach(System.out::println);
 
     }
 
